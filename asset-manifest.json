@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/stockProfitLoss/static/css/main.248f80b0.chunk.css",
+    "main.js": "/stockProfitLoss/static/js/main.16148204.chunk.js",
+    "runtime-main.js": "/stockProfitLoss/static/js/runtime-main.6d16b1c7.js",
+    "static/js/2.76a0c383.chunk.js": "/stockProfitLoss/static/js/2.76a0c383.chunk.js",
+    "static/js/3.6987ac9e.chunk.js": "/stockProfitLoss/static/js/3.6987ac9e.chunk.js",
+    "index.html": "/stockProfitLoss/index.html",
+    "static/js/2.76a0c383.chunk.js.LICENSE.txt": "/stockProfitLoss/static/js/2.76a0c383.chunk.js.LICENSE.txt",
+    "static/media/background.86838913.jpg": "/stockProfitLoss/static/media/background.86838913.jpg",
+    "static/media/bear.b84aa786.png": "/stockProfitLoss/static/media/bear.b84aa786.png",
+    "static/media/bull.086f7405.png": "/stockProfitLoss/static/media/bull.086f7405.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d16b1c7.js",
+    "static/js/2.76a0c383.chunk.js",
+    "static/css/main.248f80b0.chunk.css",
+    "static/js/main.16148204.chunk.js"
+  ]
+}
